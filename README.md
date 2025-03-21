@@ -1,3 +1,4 @@
+```
 src/
 ├── assets/                # Static assets (images, fonts)
 │   ├── fonts/
@@ -37,3 +38,5 @@ src/
 ├── .env.local             # Environment variables
 ├── .gitignore
 ├── package.json
+
+```
