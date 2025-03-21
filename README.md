@@ -18,7 +18,7 @@ src/
 │   ├── types/types.d.ts   # Shared TypeScript types and interfaces
 │
 ├── pages/                 # Page components (LoginPage, DashboardPage)
-│
+│        ├── App.tsx       # Main app entry point
 ├── routes/                # Centralized app routing
 │   ├── routes.tsx
 │
@@ -32,7 +32,6 @@ src/
 ├── styles/                # Global styles (CSS Modules, Tailwind, etc.)
 │   ├── globals.css
 │
-├── App.tsx                # Main app entry point
 ├── index.tsx              # React root file
 ├── .env.local             # Environment variables
 ├── .gitignore
