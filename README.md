@@ -23,7 +23,6 @@ src/
 │   ├── routes.tsx
 │
 ├── services/              # API services (fetching data)
-│   ├── apiClient.ts       # Axios client for API calls
 │   ├── products/          # Product API services
 │   │   ├── queries/queries.ts # React Query fetching
 |   |     ├──keys/keys.ts # Query keys
