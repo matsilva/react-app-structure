@@ -24,8 +24,8 @@ src/
 │
 ├── services/              # API services (fetching data)
 │   ├── products/          # Product API services
-│   │   ├── queries/queries.ts # React Query fetching
-|   |     ├──keys/keys.ts # Query keys
+│   │   ├── queries.ts # React Query fetching
+|   |   ├── keys.ts # Query keys
 │   │   ├── mutations.ts   # React Query mutations
 │   │   ├── api.ts         # API functions
 │
