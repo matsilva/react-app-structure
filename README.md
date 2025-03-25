@@ -15,7 +15,7 @@ src/
 │   ├── helpers/           # Utility functions
 │   ├── hooks/             # Custom reusable hooks
 │   ├── store/             # State management (Redux/Zustand)
-│   ├── types/types.d.ts   # Shared TypeScript types and interfaces
+│   ├── types/types.ts   # Shared TypeScript types and interfaces
 │
 ├── pages/                 # Page components (LoginPage, DashboardPage)
 │        ├── App.tsx       # Main app entry point
